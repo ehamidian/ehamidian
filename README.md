@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✨ I’m Elham Hamidian.
-- 👀 I’m interested in Web and Game Design and Development.
+- 👀 I’m interested in Human Computer Interaction, Design, and Development.
 - 🌱 I'm pursuing a second master's degree in media informatics at Saarland University in Germany.
 - 📫 You can reach me by elhamhamidian@yahoo.com
 
