@@ -2,8 +2,8 @@
 
 🎓 IT Engineer with two Master’s degrees:
 
-M.Sc. in Media Informatics – Saarland University, Germany
-M.Sc. in IT Engineering – Computer Networks
+- M.Sc. in Media Informatics – Saarland University, Germany
+- M.Sc. in IT Engineering – Computer Networks
 
 💼 Experienced IT professional with a strong background in:
 
