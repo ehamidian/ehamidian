@@ -15,7 +15,7 @@
 - Virtualization Technologies
 - Technical Support & Troubleshooting
 
-🔧 Technologies & Tools
+🔧 Technologies & Tools:
  - Windows Server - Linux - Active Directory - Microsoft 365 - Azure - VMware - Hyper-V - Docker - Kubernetes - VPN - Firewalls - PowerShell - Python - Networking
 
 🚀 Passionate about building reliable IT systems, automating workflows, improving infrastructure, and solving technical challenges.
